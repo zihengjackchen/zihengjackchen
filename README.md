@@ -2,7 +2,7 @@
   <a href="https://github.com/zihengjackchen">
     <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="zihengjackchen's LeetCode Stats">
     <br>
-    Experienced in coding but just started the grind.
+    TRUST THE PROCESS
   </a>
 </p>
 
