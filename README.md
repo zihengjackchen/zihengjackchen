@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/zihengjackchen">
+  <a href="https://leetcode.com/zihengjackchen">
     <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="zihengjackchen's LeetCode Stats">
     <br>
   </a>
