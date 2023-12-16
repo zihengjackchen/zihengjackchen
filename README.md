@@ -4,6 +4,8 @@
   </a>
 </p>
 
+```
 author = "Ziheng (Jack) Chen"
 info = "MS Student in Computer Engineering @ UIUC"
 status = "Actively seeking an internship in software engineering for Summer 2024"
+```
