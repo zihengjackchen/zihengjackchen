@@ -2,8 +2,8 @@
   <a href="https://github.com/zihengjackchen">
     <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="zihengjackchen's LeetCode Stats">
     <br>
-    TRUST THE PROCESS
   </a>
+  TRUST THE PROCESS
 </p>
 
 <p>
