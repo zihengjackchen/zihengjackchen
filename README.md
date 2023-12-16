@@ -8,6 +8,7 @@ status = "Actively seeking an internship in software engineering for Summer 2024
   <a href="https://leetcode.com/zihengjackchen">
     <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="zihengjackchen's Leetcode Status">
   </a>
+  <figcaption>Your Caption Here</figcaption>
 </p>
 
 The grind has just started.
