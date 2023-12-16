@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/JeremyTsaii/leetcode-stats">
-    <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="zihengjackchen's LeetCode Stats">
+  <a href="https://github.com/zihengjackchen">
+    <img src="https://leetcode-stats.vercel.app/api?username=zihengjackchen&theme=Mist" alt="The grind has just started">
   </a>
 </p>
 
