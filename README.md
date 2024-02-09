@@ -1,5 +1,5 @@
 <p align="center">
-  TRUST THE PROCESS <br>
+ <br>
   <a href="https://leetcode.com/zihengjackchen">
     <img src="https://leetcard.jacoblin.cool/zihengjackchen?theme=nord&font=PT%20Mono&ext=contest" alt="zihengjackchen's LeetCode Stats">
     <br>
