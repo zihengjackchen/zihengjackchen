@@ -7,16 +7,37 @@
   Actively seeking 2025 NG roles in SWE and SRE
 </p>
 
+<p align="center">
+  <!-- Codeforces Button -->
+  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile">
+  </a>
+
+  <!-- LeetCode Button -->
+  <a href="https://leetcode.com/zihengjackchen" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile">
+  </a>
+
+  <!-- Portfolio Button -->
+  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+
+  <!-- LinkedIn Button -->
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+</p>
+
 
 ## 📊 Contests:
 <p align="center">
   <!-- LeetCode Profile -->
-  <a href="https://leetcode.com/zihengjackchen" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/zihengjackchen">
     <img height="273em" src="https://leetcard.jacoblin.cool/zihengjackchen?theme=nord&font=PT%20Mono&ext=contest" alt="zihengjackchen's LeetCode Stats">
   </a>
-
   <!-- Codeforces Profile -->
-  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank" rel="noopener noreferrer">
+  <a href="https://codeforces.com/profile/GodstaffJax">
     <img height="280em" src="https://raw.githubusercontent.com/zihengjackchen/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="zihengjackchen's Codeforces Stats">
   </a>
 </p>
