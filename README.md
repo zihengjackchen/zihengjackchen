@@ -1,45 +1,31 @@
+## 👨🏻‍💻 Ziheng (Jack) Chen
+MS Student in Computer Engineering @ UIUC, graduating in May 2025  
+Actively seeking 2025 new grad roles in SWE and SRE
+
 ## 💫 About Me
-<p align="center">
-  <strong>Ziheng (Jack) Chen</strong>
-  <br>
- MS Student in Computer Engineering @ UIUC
-  <br>
-  Actively seeking 2025 NG roles in SWE and SRE
+<p>
+  Hello! I'm Jack, an MS student specializing in Computer Engineering at UIUC. With experience in site reliability and data engineering roles at Talos and StoneX Group, I'm passionate about creating impactful software that drives innovation and safety in technology.
+  Some of my industry work includes:
+  <ul>
+    <li><strong>Talos:</strong> Improved business-level alerting, optimized GCP costs and specifications, automated processes, and visualized infrastructure.</li>
+    <li><strong>StoneX Group:</strong> Developed a pipeline to test commodity index profitability, added version control to Databricks jobs and notebooks, integrated Okta authentication into a web app, and created visualizations.</li>
+  </ul>
+  My passion lies in writing code that matters, which aligns with my research interests. Recently, I focused on advancing autonomous vehicle safety by reducing accident risks by 72.7% through active traffic risk assessment and analyzing faults in supercomputers.
 </p>
 
-<p align="center">
-  <!-- Codeforces Button -->
-  <a href="<https://codeforces.com/profile/GodstaffJax>" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile">
-  </a>
-
-  <!-- LeetCode Button -->
-  <a href="<https://leetcode.com/zihengjackchen>" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile">
-  </a>
-
-  <!-- Portfolio Button -->
-  <a href="<https://zihengjackchen.com/>" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-
-  <!-- LinkedIn Button -->
-  <a href="<https://www.linkedin.com/in/zihengjackchen/>" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihengjackchen/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://zihengjackchen.com/)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/zihengjackchen)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/GodstaffJax)
 
 
 ## 📊 Contests
 <p align="center">
   <!-- LeetCode Profile -->
-  <a href="<https://leetcode.com/zihengjackchen>">
-    <img height="273em" src="https://leetcard.jacoblin.cool/zihengjackchen?theme=nord&font=PT%20Mono&ext=contest" alt="zihengjackchen's LeetCode Stats">
-  </a>
+  <img height="273em" src="https://leetcard.jacoblin.cool/zihengjackchen?theme=nord&font=PT%20Mono&ext=contest" alt="zihengjackchen's LeetCode Stats">
+  
   <!-- Codeforces Profile -->
-  <a href="<https://codeforces.com/profile/GodstaffJax>">
-    <img height="280em" src="https://raw.githubusercontent.com/zihengjackchen/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="zihengjackchen's Codeforces Stats">
-  </a>
+  <img height="280em" src="https://raw.githubusercontent.com/zihengjackchen/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="GodstaffJax's Codeforces Stats">
 </p>
 
 
