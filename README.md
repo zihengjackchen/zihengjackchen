@@ -11,12 +11,12 @@
 ## 📊 Contests:
 <p align="center">
   <!-- LeetCode Profile -->
-  <a href="https://leetcode.com/zihengjackchen" target="_blank">
+  <a href="https://leetcode.com/zihengjackchen" target="_blank" rel="noopener noreferrer">
     <img height="273em" src="https://leetcard.jacoblin.cool/zihengjackchen?theme=nord&font=PT%20Mono&ext=contest" alt="zihengjackchen's LeetCode Stats">
   </a>
 
   <!-- Codeforces Profile -->
-  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank">
+  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank" rel="noopener noreferrer">
     <img height="280em" src="https://raw.githubusercontent.com/zihengjackchen/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="zihengjackchen's Codeforces Stats">
   </a>
 </p>
