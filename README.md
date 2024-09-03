@@ -14,7 +14,7 @@ Actively seeking 2025 new grad roles in SWE and SRE <br><br>
   Some of my industry work includes:
   <ul>
     <li><strong>Talos:</strong> Improved business-level alerting, optimized GCP costs and specifications, automated processes, and visualized infrastructure.</li>
-    <li><strong>StoneX Group:</strong> Developed a pipeline to test commodity index profitability, added version control to Databricks jobs and notebooks, integrated Okta authentication into a web app, and created visualizations.</li>
+    <li><strong>StoneX:</strong> Developed a pipeline to test commodity index profitability, added version control to Databricks jobs and notebooks, integrated Okta authentication into a web app, and created visualizations.</li>
   </ul>
   My passion lies in writing code that matters, which aligns with my research interests. Recently, I focused on advancing autonomous vehicle safety by reducing accident risks by 72.7% through active traffic risk assessment and analyzing faults in supercomputers.
 </p>
