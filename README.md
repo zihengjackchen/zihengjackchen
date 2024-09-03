@@ -1,11 +1,11 @@
 ## 👨🏻‍💻 Ziheng (Jack) Chen
 <p align="center">
-MS Student in Computer Engineering @ UIUC, graduating in May 2025 <br>
-Actively seeking 2025 new grad roles in SWE and SRE <br><br>
   <a href="https://www.linkedin.com/in/zihengjackchen/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
   <a href="https://zihengjackchen.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align:center" /></a>
   <a href="https://leetcode.com/zihengjackchen" target="_blank"><img alt="" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="vertical-align:center" /></a>
-  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank"><img alt="" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="vertical-align:center" /></a>
+  <a href="https://codeforces.com/profile/GodstaffJax" target="_blank"><img alt="" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="vertical-align:center" /></a><br>
+  MS Student in Computer Engineering @ UIUC, graduating in May 2025 <br>
+  Actively seeking 2025 new grad roles in SWE and SRE
 </p>
 
 ## 💫 About Me
